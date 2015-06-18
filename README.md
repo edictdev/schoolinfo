@@ -5,6 +5,8 @@ To install place in the module folder and enable on the extensions page.
 
 Sample usage can be found in the index.php file and seen by visiting http://yoursite.name/module/schoolinfo
 
+Tested against Mahara 15.04
+
 Please note that the model for the terms is one that we use in Scotland where we have three terms,
 so it might not fit your model if you have four or more (I don't know if this is the case anywhere),
 however two should be covered by the existing code (Again, I don't know if this is the case anywhere),
