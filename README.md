@@ -11,7 +11,7 @@ however two should be covered by the existing code (Again, I don't know if this 
 You are of course free to alter the code yourself under the GPL or message me on the mahara.org site if you
 have any ideas for changes or features.
 
-Latested version hosted at https://github.com/edictdev/schoolinfo
+Latest version hosted at https://github.com/edictdev/schoolinfo
 
 Please see files for licence and copyright.
 
