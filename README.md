@@ -3,7 +3,7 @@ A simple Mahara module which provides functions to return school sessions and te
 
 To install place in the module folder and enable on the extensions page.
 
-Sample usage can be found in the index.php file and seen by visiting http://yoursite.name/module/schoolinfo
+Sample usage can be found in the index.php file and you can view the results once the module is installed on your site by going to /module/schoolinfo
 
 Tested against Mahara 15.04
 
